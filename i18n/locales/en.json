@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Creating Connections & Communities",
+    "description": "At The Anthropreneur, everything revolves around building strong communities and a healthy organizational culture. By combining insights from anthropology, sociology, and psychology with practical experience, I help companies create sustainable and authentic connections."
+  },
+  "nav": {
+    "discover": "Discover my work",
+    "blog": "Read my blog",
+    "contact": "Contact me"
+  },
+  "intro": {
+    "title": "What is The Anthropreneur?",
+    "description": "At The Anthropreneur, people are central. I combine scientific insights from anthropology, sociology, and psychology with practical experience in community building and organizational culture. My approach is bottom-up: I first map out the needs and dynamics of a community before making strategic choices. This helps managers and organizational leaders make intentional decisions – choices that are not only strategically thought through but also truly serve the interests of the community and people within the organization. Whether it's building strong communities, improving organizational culture, or strengthening connections within teams – I help companies make conscious and impactful choices that contribute to sustainable collaboration."
+  },
+  "services": {
+    "title": "Services by The Anthropreneur",
+    "description": "Every organization is unique, which is why I offer customized solutions to strengthen communities and organizational cultures. I do this in three ways:",
+    "features": {
+      "consultancy": {
+        "title": "Consultancy",
+        "description": "Together we develop a strategic approach to grow and nurture your community or organizational culture. I analyze the existing dynamics and provide practical, tailored advice, enabling you to make conscious choices for the next step."
+      },
+      "workshops": {
+        "title": "Workshops & Training",
+        "description": "Use anthropological insights to design unique and inclusive solutions."
+      },
+      "freelance": {
+        "title": "Freelance Projects",
+        "description": "Do you have a specific project around community, organizational culture, or connection? I'd love to think along with you! Let's discuss how I can help bring your vision to life."
+      }
+    }
+  },
+  "cta": {
+    "title": "Are you ready for the next step?",
+    "description": "Contact us today and start your journey as an Anthropreneur!"
+  },
+  "testimonials": {
+    "title": "What my clients say",
+    "items": {
+      "0": {
+        "name": "Jeroen van der Heijden",
+        "role": "Founder of GreenLine Concepts",
+        "quote": "As a starting entrepreneur, I didn't know how to align my ideas with my target audience. Thanks to The Anthropreneur, I not only gained insight into my customers' behavior but also developed a strategy that really works. My business is growing faster than ever!"
+      },
+      "1": {
+        "name": "Ahmed El-Khatib",
+        "role": "Innovation Manager at GlobalTech",
+        "quote": "The Anthropreneur helped us understand and leverage cultural differences in our international strategy. Thanks to their approach, we've developed products that make an impact both locally and globally."
+      },
+      "2": {
+        "name": "Lisa de Vries",
+        "role": "Director of BrightFuture Initiatives",
+        "quote": "The Anthropreneur's focus on human behavior and social change has completely transformed our vision. With their guidance, we launched a sustainable project that is not only profitable but also has a positive impact on the community."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in touch",
+    "description": "I'm open to discussing how I can help you. Feel free to contact me.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send",
+      "required": "Required",
+      "success": "Success",
+      "success_message": "The form has been submitted."
+    },
+    "features": {
+      "email": {
+        "title": "Email",
+        "description": "Feel free to contact me via email: info{'@'}theanthropreneur.nl"
+      },
+      "phone": {
+        "title": "Phone",
+        "description": "Feel free to contact me via phone: +31 6 55 67 89 01"
+      },
+      "linkedin": {
+        "title": "LinkedIn",
+        "description": "Follow me on LinkedIn for updates and inspiration."
+      }
+    }
+  },
+  "about": {
+    "intro": {
+      "title": "About me",
+      "description": "My name is Vera de Groot and as the founder of The Anthropreneur, I help organizations and individuals create, maintain, and strengthen their communities. With a background in cultural anthropology and corporate anthropology, I combine existing scientific insights with my practical experience to create sustainable and impactful connections between people and organizations. Besides The Anthropreneur, I work as a corporate anthropologist at a management consultancy firm, where I support companies in understanding and shaping their organizational culture, focused on the theme of safety."
+    },
+    "approach": {
+      "title": "My approach",
+      "description": "My approach is rooted in an anthropological 'bottom-up' method, where I map out the needs and dynamics of a community before making strategic decisions. This ensures that the solutions I offer – whether in community building, corporate culture, or interpersonal connections – are not only effective but also authentic and future-proof."
+    },
+    "vision": {
+      "title": "My vision",
+      "description": "Connection is central to my work: listening, inclusivity, and intentionality form the core of what I do. I believe that strong communities are the foundation for successful organizations and that impact comes from genuine interaction. As The Anthropreneur, I want to bridge the gap between people and organizations, because I believe organizations achieve more success when they invest in the people who are part of them. By focusing on connection, engagement, and a strong community, I help them create an environment where both individuals and the organization can flourish."
+    }
+  }
+}

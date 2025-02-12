@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Creating Connections & Communities",
+    "description": "Bij The Anthropreneur draait alles om het bouwen van sterke communities en een gezonde organisatiecultuur. Door inzichten uit de antropologie, sociologie en psychologie te combineren met praktijkervaring, help ik bedrijven bij het creëren van duurzame en authentieke verbindingen."
+  },
+  "nav": {
+    "discover": "Ontdek mijn werk",
+    "blog": "Lees mijn blog",
+    "contact": "Contacteer mij"
+  },
+  "intro": {
+    "title": "Wat is The Anthropreneur?",
+    "description": "Bij The Anthropreneur staat de mens centraal. Ik combineer wetenschappelijke inzichten uit de antropologie, sociologie en psychologie met praktijkervaring in community building en organisatiecultuur. Mijn aanpak is bottom-up: ik breng eerst de behoeften en dynamiek van een community in kaart, voordat strategische keuzes worden gemaakt. Dit helpt managers en organisatieleiders om intentionele beslissingen te nemen – keuzes die niet alleen strategisch doordacht zijn, maar ook de belangen van de community en de mensen binnen de organisatie daadwerkelijk behartigen. Of het nu gaat om het bouwen van sterke communities, het verbeteren van organisatiecultuur of het versterken van verbindingen binnen teams – ik help bedrijven om bewuste en impactvolle keuzes te maken die bijdragen aan een duurzame samenwerking."
+  },
+  "services": {
+    "title": "Diensten van The Anthropreneur",
+    "description": "Elke organisatie is uniek, en daarom bied ik maatwerkoplossingen om communities en organisatieculturen te versterken. Dit doe ik op drie manieren:",
+    "features": {
+      "consultancy": {
+        "title": "Consultancy",
+        "description": "Samen ontwikkelen we een strategische aanpak om jouw community of organisatiecultuur te laten groeien en bloeien. Ik analyseer de bestaande dynamiek en bied praktisch advies op maat, zodat je bewuste keuzes kunt maken voor de volgende stap."
+      },
+      "workshops": {
+        "title": "Workshops & Trainingen",
+        "description": "Gebruik antropologische inzichten om unieke en inclusieve oplossingen te ontwerpen."
+      },
+      "freelance": {
+        "title": "Freelance opdrachten",
+        "description": "Heb je een specifiek project rondom community, organisatiecultuur of verbinding? Dan denk ik graag met je mee! Laten we in gesprek gaan over hoe ik kan helpen om jouw visie tot leven te brengen."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ben jij klaar voor de volgende stap?",
+    "description": "Neem vandaag nog contact met ons op en start jouw reis als Anthropreneur!"
+  },
+  "testimonials": {
+    "title": "Wat mijn cliënten zeggen",
+    "items": {
+      "0": {
+        "name": "Jeroen van der Heijden",
+        "role": "Oprichter van GreenLine Concepts",
+        "quote": "Als startende ondernemer wist ik niet hoe ik mijn ideeën moest afstemmen op mijn doelgroep. Dankzij The Anthropreneur heb ik niet alleen inzicht gekregen in het gedrag van mijn klanten, maar ook een strategie ontwikkeld die écht werkt. Mijn bedrijf groeit nu sneller dan ooit!"
+      },
+      "1": {
+        "name": "Ahmed El-Khatib",
+        "role": "Innovatiemanager bij GlobalTech",
+        "quote": "The Anthropreneur heeft ons geholpen om culturele verschillen te begrijpen en te benutten in onze internationale strategie. Dankzij hun aanpak hebben we producten ontwikkeld die zowel lokaal als wereldwijd impact maken."
+      },
+      "2": {
+        "name": "Lisa de Vries",
+        "role": "Directeur van BrightFuture Initiatives",
+        "quote": "De focus van The Anthropreneur op menselijk gedrag en maatschappelijke verandering heeft onze visie volledig veranderd. Met hun begeleiding hebben we een duurzaam project gelanceerd dat niet alleen winstgevend is, maar ook een positieve impact heeft op de gemeenschap."
+      }
+    }
+  },
+  "contact": {
+    "title": "Neem contact met me op",
+    "description": "Ik sta open voor een gesprek over hoe ik je kunt helpen. Neem hiervoor gerust contact met me op.",
+    "form": {
+      "name": "Naam",
+      "email": "Email",
+      "message": "Bericht",
+      "submit": "Verzenden",
+      "required": "Verplicht",
+      "success": "Succes",
+      "success_message": "Het formulier is verzonden."
+    },
+    "features": {
+      "email": {
+        "title": "Email",
+        "description": "Neem gerust contact met me op via email: info{'@'}theanthropreneur.nl"
+      },
+      "phone": {
+        "title": "Telefoon",
+        "description": "Neem gerust contact met me op via telefoon: +31 6 55 67 89 01"
+      },
+      "linkedin": {
+        "title": "LinkedIn",
+        "description": "Volg me op LinkedIn voor updates en inspiratie."
+      }
+    }
+  },
+  "about": {
+    "intro": {
+      "title": "Over mij",
+      "description": "Mijn naam is Vera de Groot en als oprichter van The Anthropreneur help ik organisaties en individuen bij het creëren, behouden en versterken van hun communities. Met een achtergrond in culturele antropologie, corporate antropologie, combineer ik bestaande wetenschappelijke inzichten met mijn praktijkervaring om duurzame en impactvolle verbindingen tussen mens en organisatie te realiseren. Naast The Anthropreneur ben ik werkzaam als corporate antropoloog bij een management consultancy bureau, waar ik bedrijven ondersteun in het begrijpen en vormgeven van hun organisatiecultuur, toegespitst op het thema veiligheid."
+    },
+    "approach": {
+      "title": "Mijn aanpak",
+      "description": "Mijn aanpak is geworteld in een antropologische 'bottom-up' methode, waarbij ik de behoeften en dynamiek van een community in kaart breng voordat er strategische beslissingen worden genomen. Dit zorgt ervoor dat de oplossingen die ik bied – of het nu gaat om community building, bedrijfscultuur of interpersoonlijke verbindingen – niet alleen effectief, maar ook authentiek en toekomstbestendig zijn."
+    },
+    "vision": {
+      "title": "Mijn visie",
+      "description": "Verbinding staat bij mij centraal: luisteren, inclusiviteit en intentionaliteit vormen de kern van mijn werk. Ik geloof dat sterke communities de basis zijn voor succesvolle organisaties en dat impact ontstaat door echte interactie. Als The Anthropreneur wil ik een brug slaan tussen mens en organisatie, omdat ik geloof dat organisaties meer succes boeken wanneer zij investeren in de mensen die er onderdeel van uitmaken. Door te focussen op verbinding, betrokkenheid en een sterke community, help ik hen een omgeving te creëren waarin zowel individuen als de organisatie kunnen floreren."
+    }
+  }
+}

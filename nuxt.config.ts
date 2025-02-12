@@ -2,7 +2,8 @@
 export default defineNuxtConfig({
   modules: [
     '@nuxt/eslint',
-    '@nuxt/ui-pro'
+    '@nuxt/ui-pro',
+    '@nuxtjs/i18n'
   ],
 
   devtools: {
@@ -28,5 +29,30 @@ export default defineNuxtConfig({
         braceStyle: '1tbs'
       }
     }
+  },
+
+  i18n: {
+    langDir: 'locales',
+    locales: [
+      {
+        code: 'en',
+        iso: 'en-US',
+        name: 'English',
+        file: 'en.json'
+      },
+      {
+        code: 'nl',
+        iso: 'nl-NL',
+        name: 'Nederlands',
+        file: 'nl.json'
+      }
+    ],
+    defaultLocale: "nl",
+    strategy: "no_prefix",
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: "i18n_redirected",
+      redirectOn: "root",
+    },
   }
 })
